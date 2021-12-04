@@ -4,3 +4,4 @@
 *.upa
 figures/*.pdf
 fonts/**/*.[ot]tf
+.DS_Store
